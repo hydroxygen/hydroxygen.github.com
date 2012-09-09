@@ -2,7 +2,7 @@
 markdown: rdiscount
 pygments: true
 safe: false
-permalink: /posts/:title.html
+permalink: /blog/:year/:month/:day/:title
 exclude:
   - README.md
 
@@ -20,7 +20,7 @@ meta:
         name: hydroxygen
         email: hydroxygen@163.com
         disqus: hydroxygen 			                # Disqus缩略标识
-        gcse: 002981071471006019237:bcmd-n00ura     # Google自定义搜索标识ID
+        gcse: 002980071471006019237:bcmd-n00ura     # Google自定义搜索标识ID
         github: hydroxygen             			    # GitHub账号
         gravatar: 8f021a48ca93da3a7729e7b89f3e6cdc  # Gravatar头像标识
 
